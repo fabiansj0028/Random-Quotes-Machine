@@ -1,0 +1,43 @@
+*{
+  transition: all 0.2s ease;
+  
+}
+
+.App {
+ min-width: 100vw;
+ min-height: 100vh;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+button{
+  border: none;
+  color:#fff;
+  padding: 5px 10px;
+  border-radius: 5%
+}
+
+.buttons{
+  display:flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 40px 0 0 0;
+}
+
+#quote-box{
+  border-radius: 3px;
+  width: 450px;
+  background-color: #fff;
+  padding: 40px 50px;
+  
+}
+
+#text{
+  font-size: 1.5rem;
+}
+
+#author{
+  font-size: 1.5rem;
+}
