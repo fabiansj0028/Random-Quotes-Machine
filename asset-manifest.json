@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Random-Quotes-Machine/static/css/main.b9960ac1.css",
-    "main.js": "/Random-Quotes-Machine/static/js/main.f670286f.js",
+    "main.js": "/Random-Quotes-Machine/static/js/main.9b66ef6d.js",
     "index.html": "/Random-Quotes-Machine/index.html",
     "main.b9960ac1.css.map": "/Random-Quotes-Machine/static/css/main.b9960ac1.css.map",
-    "main.f670286f.js.map": "/Random-Quotes-Machine/static/js/main.f670286f.js.map"
+    "main.9b66ef6d.js.map": "/Random-Quotes-Machine/static/js/main.9b66ef6d.js.map"
   },
   "entrypoints": [
     "static/css/main.b9960ac1.css",
-    "static/js/main.f670286f.js"
+    "static/js/main.9b66ef6d.js"
   ]
 }
